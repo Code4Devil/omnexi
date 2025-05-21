@@ -29,7 +29,7 @@ const Hero = () => {
   return (
     <section 
       id="home"
-      className="relative min-h-screen flex items-center pt-16 overflow-hidden bg-gradient-to-b from-gray-50 to-gray-100"
+      className="relative min-h-screen flex items-center pt-16 overflow-hidden bg-gradient-to-b from-gray-50 to-gray-100 md:pl-10"
     >
       <div className="absolute inset-0 bg-gradient-radial from-primary-100/30 to-transparent" />
       
